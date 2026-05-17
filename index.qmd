@@ -1,0 +1,16 @@
+---
+title: "Dr. Aadil Nakhoda"
+about:
+  template: jolla
+  image: qr_code.png # You can replace this with a professional headshot later!
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/aadil-nakhoda-9569686/
+    - icon: envelope
+      text: Email
+      href: mailto:anakhoda@iba.edu.pk
+---
+
+### Executive Summary
+I am Assistant Professor at IBA Karachi and an international trade expert, specializing in trade policy, Non-Tariff Measures (NTMs), and export competitiveness. I also currently serv as the Chair of the Economic Advisory Group, a leading economic advocacy that makes policy recommendations of significant importance to policymakers and provides economic training opportunities to young enthusiasts. I bring extensive consulting and capacity-building experience with the World Bank, USAID, and UN ESCAP on international trading activities, SME trade participation and trade facilitation. I leverage advanced data analytics (using R \& STATA) to produce high-impact academic research and actively shapes public policy through regular commentary in leading national dailies.
