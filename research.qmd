@@ -23,8 +23,25 @@ Welcome to my research page. My academic work primarily focuses on international
 **Abstract:**
 Non‐tariff measures (NTMs) may lead to a higher regulatory burden on firms that are required to comply with them. The increase in similarity of NTMs applied on their respective imports by the trading partners may reduce this burden as exporting firms are required to comply with them regardless of whether they sell in the domestic market or export to markets applying similar NTMs. I determine the influence of increasing similarity of NTMs applied by the United States and its trading partners on the unit value of imports. I split the sample of source countries based on their income level and find that the influence on unit value is different within the richer and the poorer countries. The robustness checks reinforce the findings that the increasing similarity of NTMs applied by the trading partners does influence the unit value of imports but does so differently based on the income level of source countries.
 
-[DOI Link]( https://doi.org/10.1111/twec.13702) | [Download PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/twec.13702) | [Replication Data & R Code](https://doi.org/10.6084/m9.figshare.24746481)
+[DOI Link]( https://doi.org/10.1111/twec.13702) | [Download PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/twec.13702) 
 </div>
 </details>
+
+
+<details>
+<summary><strong>Do export subsidies dampen export unit values across markets? A case study on Pakistan</strong> (2025)</summary>
+<div style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;">
+
+**Journal:** *Economia e Politica Industriale: Journal of Industrial and Business Economics* 
+
+
+**Abstract:**
+The export unit value is influenced by the characteristics of the export market destination. However, this influence is dampened when export subsidies are provided by the government on specific products to incentivize the exporters. We use firm-level data on Pakistani exporters merged with product-level data on the provision of export subsidies in this study. We find that the provision of export subsidies on the products exported dampens this relationship as some of the export market characteristics that otherwise influence export unit value become insignificant. We split the sample of firms according to the product classification of the products exported, such as differentiated industrial products and homogenous non-industrial products, and the size of total export sales to determine whether the provision of export subsidies dampens the impact of export market characteristics on export unit value across the different product classifications as well as across larger and smaller exporters. We believe that the results have implications for policymakers providing incentives to the exporters.
+
+[DOI Link](https://doi.org/10.1007/s40812-024-00308-1) | [Download PDF](https://link.springer.com/content/pdf/10.1007/s40812-024-00308-1.pdf) 
+</div>
+</details>
+
+
 
 <br>

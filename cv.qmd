@@ -16,7 +16,7 @@ format:
 ::: {style="text-align: center; margin-bottom: 30px;"}
 <p style="font-size: 1.1em; color: #4A4A4A;">
 
-<strong>Nationality:</strong> Pakistani <br> <a href="mailto:anakhoda@iba.edu.pk">anakhoda\@iba.edu.pk</a> \| +92 333 3801363 <br> <a href="https://www.linkedin.com/in/aadil-nakhoda-9569686/" target="_blank">LinkedIn</a> \| 
+<strong>Nationality:</strong> Pakistani <br> <a href="mailto:anakhoda@iba.edu.pk">anakhoda at iba.edu.pk</a> \| +92 333 3801363 \| <a href="https://www.linkedin.com/in/aadil-nakhoda-9569686/" target="_blank">LinkedIn</a>  
 
 </p>
 
