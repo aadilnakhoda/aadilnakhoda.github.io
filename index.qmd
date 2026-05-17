@@ -2,7 +2,7 @@
 title: "Dr. Aadil Nakhoda"
 about:
   template: jolla
-  image: qr_code.png # You can replace this with a professional headshot later!
+  image: pic1ws.jpeg # You can replace this with a professional headshot later!
   links:
     - icon: linkedin
       text: LinkedIn
@@ -13,4 +13,4 @@ about:
 ---
 
 ### Executive Summary
-I am Assistant Professor at IBA Karachi and an international trade expert, specializing in trade policy, Non-Tariff Measures (NTMs), and export competitiveness. I also currently serv as the Chair of the Economic Advisory Group, a leading economic advocacy that makes policy recommendations of significant importance to policymakers and provides economic training opportunities to young enthusiasts. I bring extensive consulting and capacity-building experience with the World Bank, USAID, and UN ESCAP on international trading activities, SME trade participation and trade facilitation. I leverage advanced data analytics (using R \& STATA) to produce high-impact academic research and actively shapes public policy through regular commentary in leading national dailies.
+As an Assistant Professor of Economics at IBA Karachi and a recognized expert in international trade, I specialize in shaping trade policy and enhancing export competitiveness in Pakistan. My work sits at the intersection of academic research, public policy, and global trade dynamics, with a distinct focus on tariff and non-tariff measures (NTMs) and the structural challenges facing domestic firms in the global marketplace. Leveraging advanced data analytics (R and STATA), I produce high-impact research centered on firm growth, productivity dynamics, and trade facilitation. In the classroom, I bridge theory and practice, teaching comprehensive undergraduate and graduate courses in international trade alongside core economics modules at IBA. Beyond academia, I serve as the Chair of the Economic Advisory Group (EAG), a premier advocacy forum dedicated to delivering evidence-based recommendations to Pakistan's economic policymakers and providing rigorous training for emerging young economists. My applied policy expertise is further grounded in extensive consulting and capacity-building engagements with leading international organizations, including the World Bank, USAID, FCDO, and the United Nations, where I focus on integrating SMEs into global value chains. Committed to public discourse, I actively translate complex economic concepts into actionable insights through regular commentary in leading national dailies.
