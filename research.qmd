@@ -17,7 +17,7 @@ Welcome to my research page. My academic work primarily focuses on international
 <summary><strong>Similarity of NTMs and Its Impact on Import Unit Values</strong> (2025)</summary>
 <div style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;">
 
-**Journal:** *The World Economy* (Placeholder)  
+**Journal:** *The World Economy* 
 
 
 **Abstract:**

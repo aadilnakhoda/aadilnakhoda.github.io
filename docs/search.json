@@ -110,5 +110,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Welcome to my research page. My academic work primarily focuses on international trade policy, export competitiveness, and the structural challenges facing firms participating in global value chains.\nClick on the title of any paper to expand the abstract and view additional details."
+  },
+  {
+    "objectID": "research.html#peer-reviewed-publications",
+    "href": "research.html#peer-reviewed-publications",
+    "title": "Research",
+    "section": "Peer-Reviewed Publications",
+    "text": "Peer-Reviewed Publications\n\n\nSimilarity of NTMs and Its Impact on Import Unit Values (2025)\n\n\nJournal: The World Economy (Placeholder)\nAbstract: Non‐tariff measures (NTMs) may lead to a higher regulatory burden on firms that are required to comply with them. The increase in similarity of NTMs applied on their respective imports by the trading partners may reduce this burden as exporting firms are required to comply with them regardless of whether they sell in the domestic market or export to markets applying similar NTMs. I determine the influence of increasing similarity of NTMs applied by the United States and its trading partners on the unit value of imports. I split the sample of source countries based on their income level and find that the influence on unit value is different within the richer and the poorer countries. The robustness checks reinforce the findings that the increasing similarity of NTMs applied by the trading partners does influence the unit value of imports but does so differently based on the income level of source countries.\nDOI Link | Download PDF | Replication Data & R Code"
   }
 ]
