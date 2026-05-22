@@ -42,6 +42,131 @@ The export unit value is influenced by the characteristics of the export market 
 </div>
 </details>
 
+<details>
+<summary><strong>The Determinants of International Certification among Manufacturing Firms in Pakistan </strong> (2024)</summary>
+<div style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;">
+
+**Journal:** *Lahore Journal of Business* 
+
+**Co-author:** Farrukh Iqbal
+
+
+**Abstract:**
+This study investigates the factors that influence international certification among Pakistani manufacturing firms. About a third of such firms in Pakistan hold one or more certificates related to management or technical processes. The existing literature suggests that this demand is influenced by factors such as sector of activity, market competition, human capital and information environment, ownership type, and available resources. By analyzing a large, random sample of Pakistani manufacturing firms, we find strong correlations between these factors and international certification. We also discover that owner attitude, an aspect overlooked in previous studies, plays a role in the certification decision. While our statistical model does not fully explain the determinants of certification for small firms, we do find that certification is associated with increased profitability among small enterprises. This implies that small enterprise development agencies can improve the effectiveness of their programs by considering certification status as an additional criterion for allocating support funds. The results of our study have policy implications related to exporting, staff training, diffusion of firm ownership, and enhanced information access facilitated by modern technology tools.
+
+[DOI Link](https://repository.lahoreschool.edu.pk/xmlui/handle/123456789/17583) | [Download PDF](https://lahoreschoolofeconomics.edu.pk/assets/uploads/ljb/Volume11/01_Farrukh_et_al__ED.pdf) 
+</div>
+</details>
+
+<details>
+<summary><strong>Determinants of Management Practices among Manufacturing Firms in Pakistan </strong> (2024)</summary>
+<div style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;">
+
+**Journal:** *Pakistan Development Review* 
+
+**Co-author:** Farrukh Iqbal
+
+
+**Abstract:**
+A strong case for looking at management quality as a source of productivity has been assembled in recent years by studies showing that variations in management quality account for a big part of the productivity gap across firms and countries.  In this paper, we investigate the determinants of management quality among Pakistani manufacturing firms, using a new World Bank Enterprise Survey that provides firm-level information on the use of modern management practices. Our findings suggest that the adoption of good management practices is influenced by such characteristics as firm size, product market competition, ownership type, and the information available to staff and managers. We also find that such considerations are more relevant for medium and large firms than for small firms. Finally, we find that the link between management practices and productivity is not uniform and varies from practice to practice. 
+
+[DOI Link](https://www.jstor.org/stable/27293363) | [Download PDF](https://file.pide.org.pk/pdfpdr/2024/45-64.pdf) 
+</div>
+</details>
+
+
+<details>
+<summary><strong>Do Chinese Technical NTMs Increase the Exports of Less Sophisticated Products to China? </strong> (2022)</summary>
+<div style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;">
+
+**Journal:** *The Chinese Economy* 
+
+**Co-author:** Zhaohui Niu
+
+
+**Abstract:**
+Much evidence suggests that NTMs (non-tariff measures) have become a major instrument of trade policy. Compliance with NTMs entails significant costs on exporters who may be required to meet pre-determined standards set by the importing countries to prevent the import of substandard and dangerous products. We consider NTMs imposed by China on its imports as China not only dominates world trade but its trade policies influence global trading patterns. Our results suggest that NTMs do help increase imports of less sophisticated products into China, particularly if they are originating from low-income countries. Although, our OLS and IV estimations report similar results for products facing NTMs and not facing NTMs, the magnitude of the influence is higher for the products facing NTMs when we consider fixed effect estimations. We introduce an interaction variable defined by the income level of the trading partner. The interaction variable magnifies the influence of the level of export sophistication for products facing NTMs on imports into China, while that for products not facing NTMs become insignificant.
+
+[DOI Link](https://doi.org/10.1080/10971475.2021.2022840) | [Download PDF](https://www.tandfonline.com/doi/full/10.1080/10971475.2021.2022840) 
+</div>
+</details>
+
+
+<details>
+<summary><strong>Size and Age as Determinants of Employment Growth among Manufacturing Firms in Pakistan </strong> (2021)</summary>
+<div style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;">
+
+**Journal:** *Pakistan Development Review* 
+
+**Co-author:** Farrukh Iqbal
+
+
+**Abstract:**
+Size-based industrial policy (support for small firms) has long been provided by the government in Pakistan while age-based policy (support for young firms) has become prominent in recent years. Both policies are typically justified by reference to positive effects on labour absorption. Despite their popularity among policymakers, however, the empirical basis for such policies has not been adequately analysed at the national level. We address this issue using data from a large, multisector, random sample of manufacturing firms and find empirical support for size-based policies but not for age-based ones. We also find that sizebased policies appear most relevant for firms with less than fifty workers.
+
+[DOI Link](https://thepdr.pk/index.php/pdr/article/view/3033) | [Download PDF](https://thepdr.pk/index.php/pdr/article/view/3033/3011) 
+</div>
+</details>
+
+
+
+
+<details>
+
+<summary><strong>The impact of long-term secured loans on exports at theﬁrm-level: The case of a developing country </strong> (2018)</summary>
+
+<div style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;">
+
+**Journal:** *Journal of International Trade and Economic Development* 
+
+
+
+
+**Abstract:**
+We analyze the role of the accumulation of long-term secured loans on the participationof firms in exporting activities. Internal sources of finance, such as cash balance and itsequivalent as well as operating cash flow, may alleviate concerns on liquidity shocks andfinance shorter-term variable costs but long-term secured loans are likely to be requiredto finance fixed costs related to investments in plant, machinery and other fixed assetsthat complement exporting activities. Exporting activities may involve hysteresis suchthat the likelihood of a firm to participate in exporting activities is influenced by theaccumulation of long-term secured loans in the period prior to the export transactions.Even though the availability of internal sources of finance and the capital structure of afirm has greater economic significance, we observe that lagged long-term secured loansinfluences participation in exporting activities. Furthermore, we analyze the impact ofone-year lagged long-term secured loans on the participation of firms in exporting activ-ities based on the financial characteristics at the industry-level. This relationship holdsfor firms within industries with higher levels of long-term secured loans, higher levels offinance leverage, higher levels of asset tangibility and lower levels of total assets
+
+[DOI Link](https://doi.org/10.1080/09638199.2017.1402073) | [Download PDF](https://www.tandfonline.com/doi/epdf/10.1080/09638199.2017.1402073?needAccess=true) 
+</div>
+</details>
+
+
+<details>
+
+<summary><strong>The Impact of Manufacturing Activities in the Trading Partner on the Imports into Pakistan </strong> (2017)</summary>
+
+<div style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;">
+
+**Journal:** *IBA Business Review*
+
+**Co-author:** Farooq Pasha
+
+
+
+**Abstract:**
+Econometric analysis performed for this paper suggests that Pakistan is likely to import more from trading partners that have a larger manufacturing sector relative to their GDP for the majority of product categories. The impact is stronger for processed products. This implies a higher risk of import dependency and associated competitive pressure from imports on manufacturing activities within Pakistan.
+
+[DOI Link](https://ir.iba.edu.pk/businessreview/vol12/iss1/2/) | [Download PDF](https://ir.iba.edu.pk/cgi/viewcontent.cgi?article=1047&context=businessreview) 
+</div>
+</details>
+
+
+<details>
+
+<summary><strong>The Influence of Industry Financial Composition on the Exports from Pakistan </strong> (2014)</summary>
+
+<div style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;">
+
+**Journal:** *State Bank of Pakistan Research Bulletin*
+
+
+
+
+**Abstract:**
+ I determine the influence of the industry financial composition on the export flow between Pakistan and its trading partners. The importing countries are split according to their OECD membership status and their level of banking credit. The degree of financial dependence and asset tangibility of an industry can determine the ability of firms to obtain external finance and fund international trading activities. On the other hand, the level of financial development and exogenous shocks to the banking credit of the importing country is likely to impact the influence of the industry-level financial composition on the exports from Pakistan.  
+
+[DOI Link](https://www.sbp.org.pk/research/bulletin/2014/Vol-10-1/contents.htm) | [Download PDF](https://www.sbp.org.pk/research/bulletin/2014/Vol-10-1/InfluenceIndustryFinancialCompositionExportsPakistan.pdf) 
+</div>
+</details>
 
 
 <br>
