@@ -9,7 +9,7 @@ format:
 
 Welcome to my research page. My academic work primarily focuses on international trade policy, export competitiveness, and the structural challenges facing firms participating in global value chains. 
 
-*Click on the title of any paper to expand the abstract and view additional details.*
+*Click on the title of any paper to expand the abstract and view additional details. Downloading some of the PDFs will require you to have access to the repositories hosting them.*
 
 ## Peer-Reviewed Publications
 
