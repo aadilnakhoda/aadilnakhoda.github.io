@@ -170,3 +170,84 @@ Econometric analysis performed for this paper suggests that Pakistan is likely t
 
 
 <br>
+
+## Books and Book Chapters
+
+
+<details>
+
+<summary><strong>Pakistan and EU Trade Potential: The Bottlenecks and Roadmap for Reforms.  </strong> (2023)</summary>
+
+<div style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;">
+
+**Publication:** *Friedrich Naumann Foundation for Freedom - Pakistan & PRIME Institute*
+
+
+
+
+**Abstract:**
+ Trade plays a vital role in driving economic growth,
+but Pakistan’s trade performance has been volatile,
+with stagnant export growth and a rising trade deficit.
+The Generalized Scheme of Preferences (GSP) Plus is
+offered to a select group of exporters to the European
+Union (EU) based on a set of pre-defined criteria
+and the fulfillment of various conventions regarding
+human rights, labor rights, good governance, climate
+change and environment protection. Pakistan received
+the status on January 1, 2014. Pakistan currently is
+a signatory to all the 27 conventions and is also a
+signatory to the additional conventions proposed
+under a new revised scheme that is likely to replace
+the current one that is expiring at the end of this year.
+Although, Pakistan is not in imminent danger of losing
+the preferences awarded to its exporters, uncertainties
+loom as Pakistan faces challenges that can adversely
+impact its status. While Pakistan has experienced
+growth in trade with the EU during the GSP Plus period,
+it is imperative that the exporters continue to receive
+the preferences. To fully exploit trade potential and
+effectively compete with counterparts, it is essential
+to assess the trade patterns. This report undertakes
+a comprehensive exercise to not only determine the
+trading patterns with the EU but also bring forward
+recommendations that can help boost Pakistan’s
+exports to the EU and to the world.
+
+[Link](https://www.freiheit.org/pakistan/pakistan-and-eu-trade-potential) | [Download PDF](https://shop.freiheit.org/download/P2@1557/765850/2023-09-26_%20Pakistan%20and%20EU%20trade%20portal_digital.pdf) 
+</div>
+</details>
+
+<details>
+
+<summary><strong>Trade Connectivity </strong> (2022)</summary>
+
+<div style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;">
+
+**Publisher:** *Economic Advisory Group & PRIME Institute*
+
+
+
+[Link](https://eag.org.pk/reports/) | [Download PDF](https://eag.org.pk/wp-content/uploads/2025/02/Trade-Connectivity.pdf) 
+</div>
+</details>
+
+
+<details>
+
+<summary><strong>Do Non-Tariff Measures Matter? Assessing the Impact of Technical Measures to Trade on the Exports of Pakistan </strong> (2018)</summary> 
+<div style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;">
+**Book:** *Non-Tariff Measures: Economic Assessment and Policy Options for Development* 
+
+**Editors:** *Jamie de Melo & Alessandro Nicita*
+
+
+
+**Publisher:** *United Nations Conference on Trade and Development (UNCTAD)*
+
+**Summary**
+Pakistan’s exports are concentrated in products that contribute a small percentage of total world trade (such as textile products, vegetable products and leather products). Therefore, the bilateral export composition of Pakistan may vary significantly from the overall import composition for each of its trading partners. We use this deviation, which we label ‘exporter-importer bias’ to identify the impact of NTMs (Sanitary and phytosanitary (SPS) measures and Technical Barriers to Trade (TBT)) on Pakistan’s exports. This ratio provides an indication to the relative importance of a product in the export bundle of the exporting country to the import bundle of the importing country. Our econometric strategy investigates the impact of SPS and TBT measures on exports from Pakistan by interacting the frequency index and the coverage ratio of SPS and TBT measures with the exporter-importer bias. We find that SPS measures are less trade-restricting when the exporter-importer bias is larger, while the same does not apply for TBT measures. Our results suggest that TBT measures are trade-enhancing regardless of the exporter-importer bias. However, when we consider the importing markets as either well-regulated or less-regulated based on their level of incidence of SPS and TBT measures, we find that TBT measures are trade-enhancing when imposed by well-regulated markets reporting lower levels of exporter-importer bias. In essence, our results indicate that compliance is mandatory in both well-regulated and less-regulated markets but the stringency of TBTs is likely to influence trade in the former rather than in the latter.
+
+[Link](https://unctad.org/publication/non-tariff-measures-economic-assessment-and-policy-options-development) | [Download PDF](https://unctad.org/system/files/official-document/ditctab2018d3_en.pdf) 
+</div>
+</details>
