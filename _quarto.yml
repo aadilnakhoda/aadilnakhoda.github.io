@@ -3,6 +3,7 @@ project:
   output-dir: docs
 website:
   title: "Dr. Aadil Nakhoda"
+  google-analytics: "G-BVYQG5Q5ZM"
   navbar:
     background: primary
     left:
