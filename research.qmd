@@ -180,7 +180,7 @@ Econometric analysis performed for this paper suggests that Pakistan is likely t
 
 <div style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;">
 
-**Publication:** *Friedrich Naumann Foundation for Freedom - Pakistan & PRIME Institute*
+**Publisher:** *Friedrich Naumann Foundation for Freedom - Pakistan & PRIME Institute*
 
 
 
@@ -251,3 +251,30 @@ Pakistan’s exports are concentrated in products that contribute a small percen
 [Link](https://unctad.org/publication/non-tariff-measures-economic-assessment-and-policy-options-development) | [Download PDF](https://unctad.org/system/files/official-document/ditctab2018d3_en.pdf) 
 </div>
 </details>
+
+<br>
+
+## Research Projects
+<details>
+
+<summary><strong>Trade Policy Measures to Encourage a Shift towards Green Technologies</strong> (2024)</summary>
+
+<div style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;">
+
+**Publisher:** *Consortium for Development Policy Research*
+
+
+**Co-authors:** Farrukh Iqbal, Zara Salman, Eva Arshad, Hasan Aziz. & Ijaz Nabi
+
+**Summary**
+ Over the last two decades or so, the context for economic development in Pakistan has been increasingly affected by environmental considerations. In brief, these considerations reflect the need for Pakistan to reduce its carbon footprint.  Indeed, in the most recent round of international discussions, the Government has reiterated its commitment to the specific target of halving projected carbon emissions by 2030. While actions in many areas would be relevant, the Government has identified three priority areas: electric vehicles, coal imports, and renewable energy.  This report assesses the extent to which trade and related policy actions can help Pakistan achieve greener growth. It focuses on the following specific policy areas: tariff and non-tariff measures on environmental goods; a framework for dealing with environmental services; and broader industrial policy measures. 
+
+[Link](https://www.cdpr.org.pk/projects/trade-policy-measure-to-encourage-a-shift-towards-green-technologies/) | [Download PDF](https://www.cdpr.org.pk/wp-content/uploads/2025/01/Trade-Policy-Measures-to-Encourage-a-Shift-Towards-Green-Technologies.pdf) 
+</div>
+</details>
+
+
+
+<br>
+
+## Working Papers
