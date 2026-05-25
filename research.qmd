@@ -249,11 +249,13 @@ exports to the EU and to the world.
 Pakistan’s exports are concentrated in products that contribute a small percentage of total world trade (such as textile products, vegetable products and leather products). Therefore, the bilateral export composition of Pakistan may vary significantly from the overall import composition for each of its trading partners. We use this deviation, which we label ‘exporter-importer bias’ to identify the impact of NTMs (Sanitary and phytosanitary (SPS) measures and Technical Barriers to Trade (TBT)) on Pakistan’s exports. This ratio provides an indication to the relative importance of a product in the export bundle of the exporting country to the import bundle of the importing country. Our econometric strategy investigates the impact of SPS and TBT measures on exports from Pakistan by interacting the frequency index and the coverage ratio of SPS and TBT measures with the exporter-importer bias. We find that SPS measures are less trade-restricting when the exporter-importer bias is larger, while the same does not apply for TBT measures. Our results suggest that TBT measures are trade-enhancing regardless of the exporter-importer bias. However, when we consider the importing markets as either well-regulated or less-regulated based on their level of incidence of SPS and TBT measures, we find that TBT measures are trade-enhancing when imposed by well-regulated markets reporting lower levels of exporter-importer bias. In essence, our results indicate that compliance is mandatory in both well-regulated and less-regulated markets but the stringency of TBTs is likely to influence trade in the former rather than in the latter.
 
 [Link](https://unctad.org/publication/non-tariff-measures-economic-assessment-and-policy-options-development) | [Download PDF](https://unctad.org/system/files/official-document/ditctab2018d3_en.pdf) 
+</div>
 </details>
 
 <br>
 
 ## Research Projects
+
 <details>
 
 <summary><strong>Trade Policy Measures to Encourage a Shift towards Green Technologies</strong> (2024)</summary>
