@@ -65,10 +65,122 @@ editor: visual
 <summary><strong>Should India-Pakistan Trade Resume?</strong></summary>
 
 ::: {style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;"}
-**Hosted by:** InferTalks
+**Hosted by:** *InferTalks*
 
 ```{=html}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-WvRaWCFlEM?si=VVDr76Gdz1Tg_fkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+:::
+
+</details>
+
+<details>
+
+<summary><strong>A talk on 'Pakistan Trade Landscape'</strong></summary>
+
+::: {style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;"}
+**Hosted by:** *Centre of Business and Economics Research, IBA Karachi*
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h_m9w7oGRCA?si=ZvODmL4Olw2MI63l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+:::
+
+</details>
+
+<details>
+
+<summary><strong>Export Facilitation Scheme (EFS) - Trade Made Easy Webinar Series</strong></summary>
+
+::: {style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;"}
+**Hosted by:** *Sustainable Development Policy Institute & Pakistan Single Window*
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fCoP4QKSYf0?si=x-4xJiUegkbrilyn&amp;start=1421" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+:::
+
+</details>
+
+<details>
+
+<summary><strong>Agenda Setting for Climate Change: How can academic research generate policy impact within the energy sector?</strong></summary>
+
+::: {style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;"}
+**Hosted by:** *Consortium for Development Policy Research & World Bank*
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QZPRcOPUR1Q?si=rm2Go6JiMd8PhqMZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+:::
+
+</details>
+
+<details>
+
+<summary><strong>Trump's Tariffs - Will tariffs reduce the US trade deficit?</strong></summary>
+
+::: {style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;"}
+**Hosted by:** *Naya Pakistan, Geo News*
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zScZc9e4VyM?si=Mo-ZLclreaT6CfeC&amp;start=23" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+:::
+
+</details>
+
+<details>
+
+<summary><strong>IRAN–US/ISRAEL WAR FALLOUT ON PAKISTAN’S ECONOMY</strong></summary>
+
+::: {style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;"}
+**Hosted by:** *Pakistan Economic Frontier*
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hP4-nNp9T4o?si=gBT-ufiErYxz7ONi&amp;start=1733" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+:::
+
+</details>
+
+<details>
+
+<summary><strong>Trump's Trade Shock as A Wake-Up Call for Pakistan</strong></summary>
+
+::: {style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;"}
+**Hosted by:** *Pakistan Economic Frontier*
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2RGRPAzvG3A?si=fflB_9cIOAHe9wjn&amp;start=2301" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+:::
+
+</details>
+
+<details>
+
+<summary><strong>A Conversation on Pakistan's Trade Competitiveness with Aadil Nakhoda by Learners' Republic</strong></summary>
+
+::: {style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;"}
+**Hosted by:** *Learners' Republic*
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PR03PWhuVkg?si=WkLZga4aIVeI72o9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+:::
+
+</details>
+
+<details>
+
+<summary><strong>Building the Economy of Pakistan with Innovative & Competitive Goods w/ Aadil Nakhoda</strong></summary>
+
+::: {style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;"}
+**Hosted by:** *PRIME Institute*
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aVtu18u9u2I?si=lh4Rd2HocPGLe1FY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 :::
 
