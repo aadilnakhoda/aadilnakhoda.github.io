@@ -15,8 +15,11 @@ website:
         text: Teaching
       - href: research.qmd
         text: Research
-      - href: socialmedia.qmd
-        text: Social Media
+      - text: Media Appearances
+        menu: 
+          - text: Video
+            href: video.qmd
+           
 
 format:
   html:

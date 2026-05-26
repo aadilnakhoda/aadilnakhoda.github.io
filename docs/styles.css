@@ -1,1 +1,16 @@
-/* css styles */
+/* 1. Change the dropdown menu background to match the navbar's primary color */
+.dropdown-menu {
+  background-color: var(--bs-primary) !important;
+  border: none;
+}
+
+/* 2. Make the text inside the dropdown white so it is readable */
+.dropdown-item {
+  color: white !important;
+}
+
+/* 3. Add a slightly darker highlight when you hover over 'Video' */
+.dropdown-item:hover, .dropdown-item:focus {
+  background-color: rgba(0, 0, 0, 0.15) !important; 
+  color: white !important;
+}

@@ -1,0 +1,75 @@
+---
+title: "Video Appearances"
+format: html
+editor: visual
+---
+
+<details>
+
+<summary><strong>One Big Idea 2: What Pakistan's Top Economists Would Fix</strong></summary>
+
+::: {style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;"}
+**Hosted by:** *SIA & Haque Economics*
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EBUr6VYosEk?si=ADs-vWrYlvfBtyQ_&amp;start=2476" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+:::
+
+</details>
+
+<details>
+
+<summary><strong>Fuel, Energy and Fertilizer Prices to Rise Further in Pakistan - Shipping Paralysed in Hormuz</strong></summary>
+
+::: {style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;"}
+**Hosted by:** *PRIME INSTITUTE*
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QcrC4kBLK44?si=pgCJQAz1Pr4rBR-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+:::
+
+</details>
+
+<details>
+
+<summary><strong>Can Pakistan Build a Competitive Economy? Role of Research, Collaboration & Trade Policies</strong></summary>
+
+::: {style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;"}
+**Hosted by:** *SIA & Haque Economics*
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6zdMHaKO34?si=astOwRddkMMivRNX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+:::
+
+</details>
+
+<details>
+
+<summary><strong>How to Design the National Tariff Policy</strong></summary>
+
+::: {style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;"}
+**Hosted by:** *PRIME INSTITUTE*
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tfV_fT_ctiU?si=dFlyIzEG8Z4zx_z2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+:::
+
+</details>
+
+<details>
+
+<summary><strong>Should India-Pakistan Trade Resume?</strong></summary>
+
+::: {style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;"}
+**Hosted by:** InferTalks
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-WvRaWCFlEM?si=VVDr76Gdz1Tg_fkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+:::
+
+</details>

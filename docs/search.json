@@ -152,5 +152,26 @@
     "title": "Social Media Pages",
     "section": "",
     "text": "Tweets by EconomistAadil"
+  },
+  {
+    "objectID": "video.html",
+    "href": "video.html",
+    "title": "Video Appearances",
+    "section": "",
+    "text": "One Big Idea 2: What Pakistan’s Top Economists Would Fix\n\n\nHosted by: SIA & Haque Economics\n\n\n\n\n\nFuel, Energy and Fertilizer Prices to Rise Further in Pakistan - Shipping Paralysed in Hormuz\n\n\nHosted by: PRIME INSTITUTE\n\n\n\n\n\nCan Pakistan Build a Competitive Economy? Role of Research, Collaboration & Trade Policies\n\n\nHosted by: SIA & Haque Economics\n\n\n\n\n\nHow to Design the National Tariff Policy\n\n\nHosted by: PRIME INSTITUTE\n\n\n\n\n\nShould India-Pakistan Trade Resume?\n\n\nHosted by: InferTalks"
+  },
+  {
+    "objectID": "video.html#quarto",
+    "href": "video.html#quarto",
+    "title": "Video Appearances",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "video.html#running-code",
+    "href": "video.html#running-code",
+    "title": "Video Appearances",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   }
 ]
