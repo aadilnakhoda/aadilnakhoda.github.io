@@ -4,7 +4,6 @@ format: html
 editor: visual
 ---
 
-
 <details>
 
 <summary><strong>What Does Budget 2026-27 Bring for the Public, Businesses & the State?</strong></summary>
@@ -17,12 +16,11 @@ editor: visual
 I analyze the budget's impact on international trade, firm productivity, and industrial development, questioning if it genuinely shifts the competitiveness of Pakistani firms. I point out that the country's trade and tax architecture is finally moving in a positive direction by lowering input costs and lightening the tax burden on exporters. I highlight the National Tariff Policy as a crucial tool for unwinding the anti-export bias, specifically praising the compression of customs duties and the reduction of maximum tariff slabs. Despite these positive steps, I warn that the macroeconomic environment remains challenging, as high inflation and rising interest rates increase the cost of working capital for businesses.I conclude that while this is a commendable pro-export budget, building long-term productive capacity requires consistent execution and policy persistence over multiple years.
 
 ```{=html}
-<iframe width="560" height="315" src="https://www.youtube.com/watch?t=960&v=6PQ1U2rRU8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6PQ1U2rRU8A?si=rhLEZVqWtpTGmYQ6&amp;start=960" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 :::
 
 </details>
-
 
 <details>
 
