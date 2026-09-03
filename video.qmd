@@ -6,6 +6,42 @@ editor: visual
 
 <details>
 
+<summary><strong>Auto Policy 2026–31: Protection or Competition? Who Will Benefit?</strong></summary>
+
+::: {style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;"}
+**Hosted by:** *M News*
+
+**Summary:**
+
+In this panel discussion on Pakistan's upcoming Auto Policy 2026–31, I argue that the National Tariff Policy is a necessary step to simplify our complex tariff structure and reduce the cost of doing business. I highlight how the domestic auto industry has historically enjoyed high levels of protection, which guarantees their profit margins but stifles innovation and market competition. I emphasize that while transitioning to lower tariffs over a gradual five-year "glide path" may cause initial resistance from existing players, it is crucial for supporting overall industrial growth and empowering exporters who rely on imported inputs. Ultimately, I argue that moving away from protectionism, opening the market, and integrating into global value chains is essential to build a dynamic auto sector and address Pakistan's historically low motorization rate.
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NMw4Y3FRaUI?si=haT6upJqeCm59v1i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+:::
+
+</details>
+
+<details>
+
+<summary><strong>Open Economy vs Protectionism: What Pakistan Gets Wrong</strong></summary>
+
+::: {style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;"}
+**Hosted by:** *Haque Economics*
+
+**Summary:**
+
+In this conversation with Dr. Nadeem Ul Haque, I analyze the long-standing debate between an open economy and protectionism in Pakistan, highlighting how shielding domestic industries eliminates the competitive pressure needed to build world-class capabilities. I argue that our historical reliance on high tariffs essentially acts as an indirect tax on consumers, protecting the profit margins of inefficient domestic monopolies while stifling genuine innovation. I also challenge the prevailing narrative around forced "localization" policies, explaining how tying domestic industries to expensive, closed-loop local contracts prevents them from integrating into dynamic global value chains. Furthermore, I emphasize that creative destruction, allowing inefficient businesses to fail, is a natural and healthy part of economic growth that paves the way for new, competitive players. Ultimately, I stress the urgent need to foster a robust, data-driven research culture and open debate among Pakistani economists to challenge the status quo and develop genuine structural reforms.
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cl0CYFbGdWc?si=UNL16Yf_Kkew8pia" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+:::
+
+</details>
+
+<details>
+
 <summary><strong>What Does Budget 2026-27 Bring for the Public, Businesses & the State?</strong></summary>
 
 ::: {style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;"}

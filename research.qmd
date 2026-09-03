@@ -7,7 +7,10 @@ format:
     toc-title: "On this page"
 ---
 
-Welcome to my research page. My academic work primarily focuses on international trade policy, export competitiveness, and the structural challenges facing firms participating in global value chains. 
+Welcome to my research page. My academic work primarily focuses on international trade policy, export competitiveness, and the structural challenges facing firms participating in global value chains.
+
+
+
 
 *Click on the title of any paper to expand the abstract and view additional details. You may require access to the repositories hosting the PDFs in order to download them.*
 
@@ -494,3 +497,6 @@ Using the BEEPS dataset from Enterprise Surveys, I study the effect of financial
 [Link](https://econpapers.repec.org/paper/pramprapa/35765.htm) | [PDF](https://econpapers.repec.org/scripts/redir.pf?u=https%3A%2F%2Fmpra.ub.uni-muenchen.de%2F35765%2F1%2FMPRA_paper_35765.pdf;h=repec:pra:mprapa:35765)  
 </div>
 </details>
+
+
+<a href="https://orcid.org/0000-0003-2760-3699"> View my ORCID record <img src="/orcid.logo.icon.svg" alt="ORCID Logo"/></a>
