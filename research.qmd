@@ -18,7 +18,7 @@ Welcome to my research page. My academic work primarily focuses on international
 
 
 <details>
-<summary><strong>When less creates more: The influence of trade openness on the magnitude of trade creation</strong> (2025)</summary>
+<summary><strong>When less creates more: The influence of trade openness on the magnitude of trade creation</strong> (2026)</summary>
 <div style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;">
 
 **Journal:** *Journal of Economic Asymmetries* 
