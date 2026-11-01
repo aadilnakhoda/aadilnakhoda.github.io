@@ -6,6 +6,26 @@ editor: visual
 
 <details>
 
+<summary><strong>Uraan's \$100 billion export plan \| Samaa TV \| Economy Matters </strong></summary>
+
+::: {style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;"}
+**Hosted by:** *Samaa TV*
+
+**Summary:**
+
+In a recent appearance on SAMAA TV’s Economy Matters, I analyzed the government's ambitious "Udaan Pakistan" plan to boost national exports to \$100 billion by 2035. I emphasized that while large targets provide directional benchmarks, they frequently function more as marketing slogans than actionable strategies. Noting that Pakistan’s exports have stagnated between \$25 billion and \$32 billion over the past decade, I argued against fixating on distant mega-targets. Instead, policymakers must focus on achieving a realistic, sustainable annual export growth rate of 5% to 10%.
+
+Achieving this sustained growth requires productivity-enhancing reforms centered on capability and capacity building. I highlighted the necessity of a collaborative ecosystem where academia drives applied research, industry integrates into global value chains, and the government ensures seamless trade facilitation. Furthermore, I stressed that macroeconomic stability and the robust implementation of existing frameworks, such as the National Tariff Policy, are essential to building true export competitiveness and breaking the country's recurring cycle of balance of payments crises.
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wAOW_kYISlo?si=2XReifMgMQaXHMjU&amp;start=1606" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+:::
+
+</details>
+
+<details>
+
 <summary><strong>Auto Policy 2026–31: Protection or Competition? Who Will Benefit?</strong></summary>
 
 ::: {style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;"}
