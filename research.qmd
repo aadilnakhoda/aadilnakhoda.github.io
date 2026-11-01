@@ -16,6 +16,26 @@ Welcome to my research page. My academic work primarily focuses on international
 
 ## Peer-Reviewed Publications
 
+
+<details>
+<summary><strong>When less creates more: The influence of trade openness on the magnitude of trade creation</strong> (2025)</summary>
+<div style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;">
+
+**Journal:** *Journal of Economic Asymmetries* 
+
+
+**Abstract:**
+This study examines whether the level of trade openness drives the magnitude of trade creation as countries undertake tariff liberalization reforms. Using product-level data across importing countries, we relate the magnitude of trade creation, a simulated increase in imports from tariff liberalization, to their level of trade openness. We find that less open economies report a greater magnitude of trade creation than their more open counterparts, reflecting the greater scope for import expansion in the former. This relationship is significant for poorer countries but not for richer countries, and among the poorer countries it is strongest for products reporting relatively higher import tariffs. The result holds under instrumental variable estimation, Heckman selection estimation, the splitting of products by tariff level, and the treatment of the European Union as a single entity. Therefore, trade openness has an asymmetric influence on the magnitude of trade creation, with the scope for trade creation from tariff liberalization greatest for high-tariff products imported into less open and poorer economies.
+
+
+[DOI Link](https://doi.org/10.1016/j.jeca.2026.e00487) | [Download PDF](https://www.sciencedirect.com/science/article/pii/S1703494926000393/pdfft?md5=c4fafc6dab3700a96761ca13688f2f18&pid=1-s2.0-S1703494926000393-main.pdf) 
+</div>
+</details>
+
+
+
+
+
 <details>
 <summary><strong>Similarity of NTMs and Its Impact on Import Unit Values</strong> (2025)</summary>
 <div style="padding: 10px 0 15px 15px; border-left: 3px solid #0055A4; margin-top: 10px;">
